@@ -13,7 +13,8 @@ I'm a Computer Science enthusiast with a knack for turning innovative ideas into
 
 So whether you're looking for a team player who's up to date on the latest certifications (AWS Solutions Architect, Red Hat, IBM Data Science, Programming) or simply someone with an unwavering commitment to excellence, I'm your candidate.
 <br>
--📫 To reach me : abishek.adapa@gmail.com (+1-(813)-748-9492)
+<br>
+-📫 To reach me : abishek.adapa@gmail.com  +1-(813)-748-9492
 
 
 <br>
