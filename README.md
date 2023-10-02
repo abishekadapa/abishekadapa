@@ -118,22 +118,10 @@ const Abishek = {
 
 <br>
 
-
-### :love_you_gesture: GitHub Stats 
-<p float="left">
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PremApk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
-<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=chartreuse-dark&hide_border=false&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
-
-
 ---
    *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.- Thank you*
 
 [linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
 [hackerrank]:https://www.hackerrank.com/premapk
 [leetcode]:https://leetcode.com/its_apk/
-[insta]:https://www.instagram.com/its_apk/
 [timcap]:http://timcap.herokuapp.com/
-[quora]:https://www.quora.com/profile/PremKumar-68
-[i++]:https://play.google.com/store/apps/details?id=com.awesome.i&hl=en
-[fb]:https://www.facebook.com/a.premapk/
-[games]:https://games.app.goo.gl/gbWYXqqqutN5Jmg9A
