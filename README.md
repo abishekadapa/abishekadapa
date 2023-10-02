@@ -58,9 +58,6 @@ const Abishek = {
   <td align="center">
   <img alt="Intellij" width="30px" src="imgs/intellij-idea.svg" />  
   </td>
-  <td align="center">
-  <img alt="Git" width="30px" src="imgs/git.svg" />  
-  </td>
   </tr>
   <tr>
   <td align="center">
@@ -75,7 +72,7 @@ const Abishek = {
   <img alt="Unity" width="30px" src="imgs/unity-69.svg" />  
   </td>
   <td align="center">
-  <img alt="Heroku" width="30px" src="imgs/heroku-4.svgg" />  
+  <img alt="Heroku" width="30px" src="imgs/heroku-4.svg" />  
   </td>
   <td align="center">
   <img alt="kafka" width="25px" src="imgs/Apache_kafka.svg.png" />  
@@ -105,9 +102,6 @@ const Abishek = {
   </td>
    <td align="center">
   <img alt="Firebase" width="20px" src="imgs/firebase-1.svg" />
-  </td>
-   <td align="center">
-  <img alt="Windows" width="30px" src="imgs/Windows_Terminal_logo.svg.png" />
   </td>
   </tr>
 </table>
