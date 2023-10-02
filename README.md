@@ -53,64 +53,61 @@ const Abishek = {
   <img alt="AWS" width="30px" src="imgs/awslogo2.png" />  
   </td>
   <td align="center">
-  <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/12ce92f43f3d120ec9fc08b92924822074879e21/imgs/mysql-6.svg" />  
+  <img alt="MySQL" width="30px" src="imgs/mysql-6.svg" />  
   </td>
   <td align="center">
-  <img alt="Intellij" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/intellij-idea.svg" />  
+  <img alt="Intellij" width="30px" src="imgs/intellij-idea.svg" />  
   </td>
   <td align="center">
-  <img alt="Git" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/git.svg" />  
+  <img alt="Git" width="30px" src="imgs/git.svg" />  
   </td>
   </tr>
   <tr>
   <td align="center">
-  <img alt="VsCode" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/vscode.svg" />  
+  <img alt="VsCode" width="30px" src="imgs/vscode.svg" />  
   </td>
   <td align="center">
-  <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/mongodb.svg" />  
+  <img alt="MongoDB" width="35px" src="imgs/mongodb.svg" />  
   </td>
   <td align="center">
-  <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/php-1.svg" />
+  <img alt="PHP" width="30px" src="imgs/php-1.svg" />
   <td align="center">
-  <img alt="Unity" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/unity-69.svg" />  
+  <img alt="Unity" width="30px" src="imgs/unity-69.svg" />  
   </td>
   <td align="center">
-  <img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/630b87825153b8fb3566fcb228a04eb077e7567e/imgs/heroku-4.svg" />  
+  <img alt="Heroku" width="30px" src="imgs/heroku-4.svgg" />  
   </td>
   <td align="center">
-  <img alt="kafka" width="25px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Apache_kafka.svg.png" />  
+  <img alt="kafka" width="25px" src="imgs/Apache_kafka.svg.png" />  
   </td>
   <td align="center">
-  <img alt="kube" width="40px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/kube.png" />  
-  </td>
-  <td align="center">
-  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="kube" width="40px" src="imgs/kube.png" />  
   </td>
   </tr>
   <tr>
   <td align="center">
-  <img alt="Spring" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/spring-3.svg" />  
+  <img alt="Spring" width="30px" src="imgs/spring-3.svg" />  
   </td>
   <td align="center">
-  <img alt="Jira" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
+  <img alt="Jira" width="30px" src="imgs/jira.svg" />  
   </td>
   <td align="center">
-  <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+  <img alt="HTML" width="30px" src="imgs/html.svg" />  
   </td>
   <td align="center">
-  <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+  <img alt="CSS3" width="30px" src="imgs/css.svg" /> 
   </td>
   <td align="center">
-  <img alt="Oracle" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/oracle.svg" />
+  <img alt="Oracle" width="30px" src="imgs/oracle.svg" />
   </td>
   <td align="center">
-  <img alt="Xampp" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/xampp.svg" />
+  <img alt="Xampp" width="30px" src="imgs/xampp.svg" />
   </td>
    <td align="center">
-  <img alt="Firebase" width="20px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/firebase-1.svg" />
+  <img alt="Firebase" width="20px" src="imgs/firebase-1.svg" />
   </td>
    <td align="center">
-  <img alt="Windows" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Windows_Terminal_logo.svg.png" />
+  <img alt="Windows" width="30px" src="imgs/Windows_Terminal_logo.svg.png" />
   </td>
   </tr>
 </table>
@@ -119,9 +116,4 @@ const Abishek = {
 <br>
 
 ---
-   *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.- Thank you*
-
-[linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
-[hackerrank]:https://www.hackerrank.com/premapk
-[leetcode]:https://leetcode.com/its_apk/
-[timcap]:http://timcap.herokuapp.com/
+   "If you find my profile valuable, consider starring ⭐ the repo to show your support. Thank you!"
