@@ -35,7 +35,7 @@ const Abishek = {
 
 <table border-collapse="collapse">
   <tr>
-  <th colspan="10" align="middle"> <!-- Proficient --> </th>
+  <th colspan="10" align="middle"> <!-Proficient-> </th>
   </tr>
   <tr>
   <td align="center">
