@@ -10,10 +10,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+I'm a Computer Science enthusiast with a knack for turning innovative ideas into reality. Currently pursuing M.S. in Computer Science at Florida State University, I'm driven by the challenge of creating impactful solutions. With a strong foundation in programming languages, frameworks, databases and tools. I've built my experience as a System Software Engineer Intern at Nvidia and as a Graduate Teaching Assistant at Florida State University. I thrive on incorporating cutting-edge technologies like Node JS and Angular to create cloud-based applications that deliver unparalleled performance. I'm well-versed in containerization and orchestration with Kubernetes and Docker, streamlining application deployment and scaling for optimal efficiency and reliability. Also specialized in crafting dynamic and user-friendly web interfaces using React, ensuring exceptional user experiences through responsive design and interactive components. 
 
-- 🔭 Currently working on Web development and Application development
-- 🌱 Currently exploring depth in Cyber Security and Technologies
-- 📫 How to reach me: abishek.adapa@gmail.com
+So whether you're looking for a team player who's up to date on the latest certifications (AWS Solutions Architect, Red Hat, IBM Data Science, Programming) or simply someone with an unwavering commitment to excellence, I'm your candidate.
+📫 To reach me : abishek.adapa@gmail.com (+1-(813)-748-9492)
+
 
 <br>
 
