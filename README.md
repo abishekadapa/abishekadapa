@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-[![](https://img.shields.io/badge/LinkedIn-Harshavardhan%20Reddy%20Gadireddy-blue)](https://www.linkedin.com/in/harsha-vardhan-reddy-gadireddy/)
-[![](https://img.shields.io/badge/GMail-harshavardhan.gadireddy%40gmail.com-red)](mailto:harshavardhan.gadireddy@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-abishek%20adapa%20-blue)](https://www.linkedin.com/in/abishek-adapa/)
+[![](https://img.shields.io/badge/GMail-abishek.adapa%40gmail.com-red)](mailto:abishek.adapa@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
