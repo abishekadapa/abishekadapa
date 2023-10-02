@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-[![](https://img.shields.io/badge/LinkedIn-Abishek%20Adapa%20-blue)](https://www.linkedin.com/in/abishek-adapa/)
+[![](https://img.shields.io/badge/LinkedIn-Abishek%40Adapa%40-blue)](https://www.linkedin.com/in/abishek-adapa/)
 [![](https://img.shields.io/badge/GMail-abishek.adapa%40gmail.com-red)](mailto:abishek.adapa@gmail.com)
 
 
