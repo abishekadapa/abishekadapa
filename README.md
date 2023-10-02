@@ -40,14 +40,14 @@ Feel free to reach out if you're looking for a team player who's up to date on t
   <th colspan="20" align="middle"> Proficient in </th>
   </tr>
   <tr>
+    <td align="center">
+  <img alt="Java" width="35px" src="imgs/jee.svg" />  
+  </td>
+    <td align="center">
+  <img alt="JavaScript" width="35px" src="imgs/javascript.svg" />
   <td align="center">
   <img alt="Python" width="35px" src="imgs/python-5.svg" />  
   </td>
-  <td align="center">
-  <img alt="Java" width="35px" src="imgs/jee.svg" />  
-  </td>
-  <td align="center">
-  <img alt="JavaScript" width="35px" src="imgs/javascript.svg" />
   <td align="center">
   <img alt="Docker" width="35px" src="imgs/docker.png" />  
   </td>
@@ -71,16 +71,17 @@ Feel free to reach out if you're looking for a team player who's up to date on t
   <td align="center">
   <img alt="PHP" width="35px" src="imgs/php-1.svg" />
   <td align="center">
+  <img alt="Heroku" width="35px" src="imgs/heroku-4.svg" />  
+  </td>
+    <td align="center">
   <img alt="Unity" width="35px" src="imgs/unity-69.svg" />  
   </td>
+  
   <td align="center">
-  <img alt="Heroku" width="35px" src="imgs/heroku-4.svg" />  
+  <img alt="kube" width="35px" src="imgs/kube.png" />  
   </td>
   <td align="center">
   <img alt="kafka" width="35px" src="imgs/Apache_kafka.svg.png" />  
-  </td>
-  <td align="center">
-  <img alt="kube" width="35px" src="imgs/kube.png" />  
   </td>
   </tr>
   <tr>
