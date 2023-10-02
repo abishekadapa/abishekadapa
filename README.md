@@ -1,6 +1,3 @@
-
-<img align='right' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54e22943-53d9-4b8a-b1e1-3948599d7a0c/ddtzgt7-cf657113-ba31-46f7-8ed9-fa1da8e57879.png/v1/fill/w_1280,h_720,q_80,strp/btw_i_use_arch_by_noorwach_ddtzgt7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTRlMjI5NDMtNTNkOS00YjhhLWIxZTEtMzk0ODU5OWQ3YTBjXC9kZHR6Z3Q3LWNmNjU3MTEzLWJhMzEtNDZmNy04ZWQ5LWZhMWRhOGU1Nzg3OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5qoeu--byalmC5ZyYVbmNAZ7lw2Ahw8TQFob2zFIicc" width="350">
-
 # Hi, I am Abishek Adapa
 
 ### Master of Science student at Florida State University in Computer Science.
@@ -34,3 +31,109 @@ const Abishek = {
     }
 }
 ```
+<br>
+
+<table border-collapse="collapse">
+  <tr>
+  <th colspan="10" align="middle"> Things that I use </th>
+  </tr>
+  <tr>
+  <td align="center">
+  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  </td>
+  <td align="center">
+  <img alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  </td>
+  <td align="center">
+  <img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <td align="center">
+  <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/docker.png" />  
+  </td>
+  <td align="center">
+  <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/awslogo2.png" />  
+  </td>
+  <td align="center">
+  <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/12ce92f43f3d120ec9fc08b92924822074879e21/imgs/mysql-6.svg" />  
+  </td>
+  <td align="center">
+  <img alt="Intellij" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/intellij-idea.svg" />  
+  </td>
+  <td align="center">
+  <img alt="Git" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/git.svg" />  
+  </td>
+  </tr>
+  <tr>
+  <td align="center">
+  <img alt="VsCode" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/vscode.svg" />  
+  </td>
+  <td align="center">
+  <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/mongodb.svg" />  
+  </td>
+  <td align="center">
+  <img alt="PHP" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/php-1.svg" />
+  <td align="center">
+  <img alt="Unity" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/2e2405a5978be57837779e79067d16102be6bb36/imgs/unity-69.svg" />  
+  </td>
+  <td align="center">
+  <img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/630b87825153b8fb3566fcb228a04eb077e7567e/imgs/heroku-4.svg" />  
+  </td>
+  <td align="center">
+  <img alt="kafka" width="25px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Apache_kafka.svg.png" />  
+  </td>
+  <td align="center">
+  <img alt="kube" width="40px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/kube.png" />  
+  </td>
+  <td align="center">
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  </td>
+  </tr>
+  <tr>
+  <td align="center">
+  <img alt="Spring" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/spring-3.svg" />  
+  </td>
+  <td align="center">
+  <img alt="Jira" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/ad9f0c5612861bf9f5339cc6c73f6621454168b4/imgs/jira.svg" />  
+  </td>
+  <td align="center">
+  <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  
+  </td>
+  <td align="center">
+  <img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+  </td>
+  <td align="center">
+  <img alt="Oracle" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/oracle.svg" />
+  </td>
+  <td align="center">
+  <img alt="Xampp" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/xampp.svg" />
+  </td>
+   <td align="center">
+  <img alt="Firebase" width="20px" src="https://raw.githubusercontent.com/PremApk/PremApk/378e65da841cadc1eb02cd500521b8d3242b3e62/imgs/firebase-1.svg" />
+  </td>
+   <td align="center">
+  <img alt="Windows" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/Windows_Terminal_logo.svg.png" />
+  </td>
+  </tr>
+</table>
+<br>
+
+<br>
+
+
+### :love_you_gesture: GitHub Stats 
+<p float="left">
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PremApk&show_icons=true&hide_border=false&theme=chartreuse-dark"/>&ensp; &ensp;
+<img height="200px" width="400px" alt="Apk's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=PremApk&theme=chartreuse-dark&hide_border=false&currStreakNum=2DDD16&currStreakLabel=56DD5E&fire=FFEF21"/> &ensp;
+
+
+---
+   *If you think my profile is good, you can Star ⭐ the repo and to contribute this template, you can Fork it.- Thank you*
+
+[linkedin]:https://www.linkedin.com/in/premkumar-arumugam/
+[hackerrank]:https://www.hackerrank.com/premapk
+[leetcode]:https://leetcode.com/its_apk/
+[insta]:https://www.instagram.com/its_apk/
+[timcap]:http://timcap.herokuapp.com/
+[quora]:https://www.quora.com/profile/PremKumar-68
+[i++]:https://play.google.com/store/apps/details?id=com.awesome.i&hl=en
+[fb]:https://www.facebook.com/a.premapk/
+[games]:https://games.app.goo.gl/gbWYXqqqutN5Jmg9A
