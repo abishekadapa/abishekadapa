@@ -39,18 +39,18 @@ const Abishek = {
   </tr>
   <tr>
   <td align="center">
-  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  
+  <img alt="Python" width="35px" src="imgs/python-5.svg" />  
   </td>
   <td align="center">
-  <img alt="Java" width="25px" src="https://github.com/PremApk/PremApk/blob/main/imgs/jee.svg" />  
+  <img alt="Java" width="25px" src="imgs/jee.svg" />  
   </td>
   <td align="center">
-  <img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="JavaScript" width="25px" src="imgs/javascript.svg" />
   <td align="center">
-  <img alt="Docker" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/docker.png" />  
+  <img alt="Docker" width="30px" src="imgs/docker.png" />  
   </td>
   <td align="center">
-  <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/main/imgs/awslogo2.png" />  
+  <img alt="AWS" width="30px" src="imgs/awslogo2.png" />  
   </td>
   <td align="center">
   <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/PremApk/PremApk/12ce92f43f3d120ec9fc08b92924822074879e21/imgs/mysql-6.svg" />  
