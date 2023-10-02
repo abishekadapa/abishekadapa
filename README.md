@@ -29,7 +29,7 @@
 ## Trying to Reach out --
 - 📧 Email: [abishek.adapa@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/abishek-adapa/]
-- 📫 Phone : [(813)-748-9492]
+- 📫 Phone: [+1(813)-748-9492]
 
 Feel free to reach out if you're looking for a team player who's up to date on the latest technologies and has an unwavering commitment to excellence. I'm excited to collaborate and create impactful solutions!
 <br>
