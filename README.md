@@ -113,17 +113,16 @@ Feel free to reach out if you're looking for a team player who's up to date on t
 <br>
 
 ```javascript
-const Abishek = {
+stack Abishek = {
     pronouns: "He" | "Him",
-    askMeAbout: ["App dev", "Web dev", "Reverse Engineering", "Web & App Security", "Tech"],
-    languages: ["C/C++", "Java", "JavaScript", "Python"],
+    askMeAbout: ["Web & App development", "Reverse Engineering", "Web & App Security"],
+    languages: [ "Java", "JavaScript", "Python", "C/C++"],
     technologies: {
-        backEnd: ["Fast API", "Express.js", "Spring Boot"],
         frontEnd: ["React.js", "HTML", "CSS"],
-        mobileApp: ["Flutter", "React Native", "Android"],
+        backEnd: ["Fast API", "Express.js", "Spring Boot"],
+        App Development: ["Flutter", "React Native", "Android"],
         database: ["MySQL", "SQLite"],
-        tools: ["Ghidra", "IDA Pro", "Wireshark", "Burp Suite", "Git", "JSON", "XML", "Google Protocol Buffers"],
-        misc: ["Firebase", "AWS", "GCP"],
+        others: ["Firebase", "AWS", "GCP"],
         os: ["Linux", "Windows", "macOS"]
     }
 }
