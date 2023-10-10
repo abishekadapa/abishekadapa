@@ -12,7 +12,7 @@
 👋 Hi there! I'm a Computer Science enthusiast with a passion for turning innovative ideas into reality. Currently pursuing my M.S. in Computer Science at Florida State University, I'm driven by the challenge of creating impactful solutions.
 
 ## Experience
-- 🖥️ System Software Engineer Intern at Nvidia.
+- 🖥️ Member of Technical Staff at Zoho.
 - 👨‍🏫 Graduate Teaching Assistant at Florida State University.
 
 ## Skills
